@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Kateleen Aicey Bautista: Data Analytics Portfolio
 ---
